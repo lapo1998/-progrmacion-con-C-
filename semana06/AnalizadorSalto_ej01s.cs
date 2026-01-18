@@ -5,14 +5,11 @@ namespace ProyectoListas
     //  NODO
 
     class Nodo
-
     {
 
         public int Dato;
 
         public Nodo Siguiente;
-
-
 
         public Nodo(int dato)
 
@@ -118,11 +115,10 @@ namespace ProyectoListas
 
             Console.WriteLine("-------------------------------------------------");
 
-
-
         }
 
     }
 
 }
+
 
