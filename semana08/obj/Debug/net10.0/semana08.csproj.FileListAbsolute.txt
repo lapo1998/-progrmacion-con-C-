@@ -1,0 +1,14 @@
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.AssemblyInfoInputs.cache
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.AssemblyInfo.cs
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION 3 CICLO\semana08\bin\Debug\net10.0\semana08.exe
+D:\PROGRAMACION 3 CICLO\semana08\bin\Debug\net10.0\semana08.deps.json
+D:\PROGRAMACION 3 CICLO\semana08\bin\Debug\net10.0\semana08.runtimeconfig.json
+D:\PROGRAMACION 3 CICLO\semana08\bin\Debug\net10.0\semana08.dll
+D:\PROGRAMACION 3 CICLO\semana08\bin\Debug\net10.0\semana08.pdb
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.dll
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\refint\semana08.dll
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.pdb
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\semana08.genruntimeconfig.cache
+D:\PROGRAMACION 3 CICLO\semana08\obj\Debug\net10.0\ref\semana08.dll
